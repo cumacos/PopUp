@@ -1,0 +1,28 @@
+.ventana_modal_information {
+    display: ;
+    position: fixed;
+    width: auto;
+    height:auto;
+    padding: 0em 0em;
+    margin-right:0;
+    z-index:2001;
+    cursor: pointer;
+}
+
+.fondo_opaco_information{
+    display: ;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    z-index:2000;
+    opacity:.70;
+    -moz-opacity: 0.70;
+    filter: alpha(opacity=50);
+}
+
+
+
+
